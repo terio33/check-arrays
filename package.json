@@ -1,0 +1,23 @@
+{
+  "name": "check-arrays",
+  "version": "1.0.0",
+  "description": "Function for check if all values are arrays",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/terio33/check-arrays.git"
+  },
+  "keywords": [
+    "arrays",
+    "equal"
+  ],
+  "author": "check arrays",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/terio33/check-arrays/issues"
+  },
+  "homepage": "https://github.com/terio33/check-arrays#readme"
+}
